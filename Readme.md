@@ -23,7 +23,7 @@ Certifique-se de ter o **Node.js** instalado na sua máquina. Siga os passos aba
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/RayeneAmaro/qa-estudo-caso-pensar-cursos
-   cd NOME-DO-REPOSITORIO
+   cd qa-estudo-caso-pensar-cursos
     ```
 
 2. Instale as dependências do projeto:
