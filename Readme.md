@@ -16,6 +16,32 @@ O objetivo principal foi avaliar o comportamento da interface e dos fluxos de na
 
 ---
 
+## ⚙️ Como Executar os Testes (Playwright)
+
+Certifique-se de ter o **Node.js** instalado na sua máquina. Siga os passos abaixo no seu terminal:
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/RayeneAmaro/qa-estudo-caso-pensar-cursos
+   cd NOME-DO-REPOSITORIO
+    ```
+
+2. Instale as dependências do projeto:
+   ```bash
+    npm install
+    ```
+3. Instale os navegadores do Playwright:
+   ```bash
+    npx playwright install
+    ```
+4. Execute os testes automatizados:
+Modo Headless (executa em segundo plano):
+   ```bash
+   npx playwright test
+   ```
+   
+---
+
 ## 📂 Estrutura do Repositório
 
 ```text
